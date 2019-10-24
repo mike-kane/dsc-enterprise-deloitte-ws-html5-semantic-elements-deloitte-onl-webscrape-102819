@@ -33,7 +33,7 @@ adding `id` attributes on elements to express their "semantic meaning."
 </div>
 ```
 
-When the W3C (the organization that oversees the specifications for HTML and
+When the [W3C](https://www.w3.org/) (the organization that oversees the specifications for HTML and
 CSS) started writing the specification for HTML5 they wanted to create new
 elements that would eliminate the need to label so many `div` elements. The
 goals were to make the code more readable for developers and more descriptive
@@ -118,9 +118,4 @@ way that makes the most sense to you and best suits your layout needs.
 
 
 ## Summary
-If the content within an element is all semantically related, it is best
-practice to use the appropriate HTML5 semantic element if one applies. This
-cleans up our code and makes it more readable for developers and more
-descriptive to browsers. There are a variety of semantic elements you can use to
-structure your content, and you can also still use `div` elements to create
-generic boxes or grouping elements as needed.
+In this lesson, you learned about the historical origins of HTML5 semantic elements and demonstrated their use. If the content within an element is all semantically related, it is best practice to use the appropriate HTML5 semantic element if one applies. This cleans up our code and makes it more readable for developers and more descriptive to browsers. There are a variety of semantic elements you can use to structure your content, and you can also still use `div` elements to create generic boxes or grouping elements as needed.
